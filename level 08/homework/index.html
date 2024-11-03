@@ -1,0 +1,44 @@
+ნუგზარის საკონტროლო ნიშნის შემოწმება:
+
+score = int(input("შემოიტანეთ საკონტროლოზე მიღებული ნიშანი (1-10): "))
+
+is_A = score >= 9
+is_B = score >= 8 and score < 9
+is_C = score >= 7 and score < 8
+is_D = score >= 6 and score < 7
+is_F = score < 6
+
+print("is_A:", is_A)
+print("is_B:", is_B)
+print("is_C:", is_C)
+print("is_D:", is_D)
+print("is_F:", is_F)
+
+
+
+true_var = True
+false_var = False
+
+print("True AND True:", true_var and true_var)
+print("True AND False:", true_var and false_var)
+print("False AND True:", false_var and true_var)
+print("False AND False:", false_var and false_var)
+
+print("True OR True:", true_var or true_var)
+print("True OR False:", true_var or false_var)
+print("False OR True:", false_var or true_var)
+print("False OR False:", false_var or false_var)
+
+print("NOT True:", not true_var)
+print("NOT False:", not false_var)
+
+
+num1 = int(input("შემოიტანეთ პირველი რიცხვი: "))
+num2 = int(input("შემოიტანეთ მეორე რიცხვი: "))
+
+print("num1 == num2:", num1 == num2)
+print("num1 < num2:", num1 < num2)
+print("num1 > num2:", num1 > num2)
+print("num1 <= num2:", num1 <= num2)
+print("num1 >= num2:", num1 >= num2)
+print("num1 != num2:", num1 != num2)
