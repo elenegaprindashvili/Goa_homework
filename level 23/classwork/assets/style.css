@@ -1,0 +1,28 @@
+.left {
+    width: 30%;
+    background-color: #ffcc00;
+    padding: 15px;
+    text-align: left;
+}
+
+
+.center {
+    background-color: #66ccff;
+    text-align: center;
+}
+
+.right {
+    
+    background-color: #cc6666;
+    
+    text-align: right;
+}
+
+ 
+
+button, a {
+    background-color: #333;
+    color: white;
+    
+}
+
