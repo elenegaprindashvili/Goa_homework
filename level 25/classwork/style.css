@@ -1,0 +1,14 @@
+main {
+    background-color:bisque;
+    padding: 20px;
+}
+footer {
+    background-color:blue;
+    color: white;
+    text-align: center;
+    
+}
+
+p {
+    color: rgb(181, 181, 241);
+}

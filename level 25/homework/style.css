@@ -1,0 +1,42 @@
+h1{
+    background-color: pink;
+}
+main {
+    background-color:azure;
+    padding: 20px;
+}
+footer {
+    background-color: rgb(246, 217, 246);
+    color:darkmagenta;
+    text-align: center;
+    
+}
+
+p {
+    color: rgb(131, 131, 196);
+}
+
+h2{
+    background-color: pink;
+}
+main {
+    background-color:pink;
+    padding: 20px;
+}
+footer {
+    background-color: white;
+    color:pink;
+    text-align: center;
+    
+}
+
+p {
+    color: rgb(131, 131, 196);
+}
+h3{
+    background-color: beige;
+    
+}
+h4{
+    background-color: blueviolet;
+}
