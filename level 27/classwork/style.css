@@ -1,0 +1,14 @@
+.text1{
+    font-size: xx-large;
+    color:hsl(0, 50%, 78%, 0.5);
+    font-family: fantasy;
+    font-style: italic;
+
+}
+#text2{
+    background-color: #858585;
+}
+body{
+    background-color: rgb(208, 237, 208);
+    font-family: cursive;
+}
