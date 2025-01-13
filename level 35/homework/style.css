@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-image: url(./assets/photo/GOA.png);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+    
+}
+.container{
+    background-image: url(./assets/photo/goa1.png);
+    background-position: top;
+    background-size: 190px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(22, 225, 73);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+
+.body1{
+    background-image: url(./assets/photo/lion.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+    
+}
+.container1{
+    background-image: url(./assets/photo/lion1.png); 
+    background-position: top;
+    background-size: 100px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(22, 225, 73);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+
+.body2{
+    background-image: url(./assets/photo/kodala.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+    
+}
+.container2{
+    background-image: url(./assets/photo/kodala2.png); 
+    background-position: top;
+    background-size: 100px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(22, 225, 73);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
