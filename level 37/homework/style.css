@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./assets/photo/zg.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+   
+}
+.card {
+
+    background: rgb(241,246,197);
+    background: linear-gradient(90deg, rgba(241,246,197,1) 13%, rgb(195, 235, 243) 97%);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    width: 300px;
+}
+
+.body1{
+    background-image: url(./assets/photo/ku.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.card1{
+    background: rgb(141,243,137);
+    background: linear-gradient(0deg, rgba(141,243,137,0.3842787114845938) 7%, rgba(34,193,195,1) 62%);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    width: 300px;
+    border-radius: 5%;
+}
+.container{
+    background-image: url(./assets/photo/ku1.png); 
+    background-position: top;
+    background-size: 200px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(22, 225, 73);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+   
+}
+
+
+.body2{
+    background-image: url(./assets/photo/veshapi.png); 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.card2{
+    background: rgb(32,4,124);
+    background: linear-gradient(0deg, rgba(32,4,124,1) 2%, rgba(144,137,243,1) 100%);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    width: 300px;
+    border-radius: 5%;
+}
+.container1{
+    background-image: url(./assets/photo/veshapi2.png); 
+    background-position: top;
+    background-size: 200px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(42, 22, 225);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
