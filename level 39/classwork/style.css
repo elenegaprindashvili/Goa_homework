@@ -1,0 +1,15 @@
+.nav{
+    font-family: sans-serif;
+    margin-left: 20px;
+    list-style-type: square ;
+    list-style-image: url(assets/photo/moon.png);
+    list-style-position: inside;
+}
+
+.body{
+  background-color: rgb(206, 193, 245);
+
+}
+.body1{
+    background-color: rgb(161, 161, 245);
+}
