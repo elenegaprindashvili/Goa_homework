@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fee2d6;
+}
+table {
+    width: 70%;
+    border-collapse: collapse;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    overflow: hidden;
+}
+th, td {
+    border: 1px solid;
+    padding: 12px;
+    text-align: center;
+}
+

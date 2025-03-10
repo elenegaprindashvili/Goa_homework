@@ -1,0 +1,89 @@
+body{
+    font-family: sans-serif;
+    height: 50vh;
+    background-image:linear-gradient(120deg, #9eefbf 0%, #66f39e 100%); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+input[type="text"]{
+    padding: 10px 20px;
+    outline: none;
+    border: 5px solid rgb(163, 255, 169);
+    color: rgb(3, 203, 73);
+    background-image: linear-gradient(to top, #b5fbee 0%, #acffdf 100%);
+}
+input[type="email"]{
+    background-color: aquamarine;
+}
+.container1{
+    width: 50%;
+    height: 350px;
+    border-radius: 5px;
+   background:cadetblue;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    color: rgb(156, 242, 207);
+}
+.body1{
+    font-family: sans-serif;
+    height: 50vh;
+    background-image:linear-gradient(120deg, #9ef5c2 0%, #b0e4c5 100%); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.img{
+    background-image: url(./assets/horse.png); 
+    background-position: top;
+    background-size: 100px; 
+    background-repeat: no-repeat;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.container2{
+    width: 50%;
+    height: 350px;
+    border-radius: 5px;
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+}
+.body2{
+    font-family: sans-serif;
+    height: 50vh;
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container3{
+    width: 50%;
+    height: 350px;
+    border-radius: 5px;
+    background-image: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+}
+.body3{
+    font-family: sans-serif;
+    height: 50vh;
+    display: flex;
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.img1{
+  width:300px ;
+  height: 280px;
+}

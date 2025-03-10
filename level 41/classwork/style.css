@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: rgb(214, 233, 199);
+}
+#link:link{
+    color: aliceblue;
+    font-size: 50px;
+}
+#visited:visited{
+    color:darkblue ;
+}
+#active:active{
+    color: rgb(242, 179, 179)
+}
+#hover:hover{
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid blue;
+
+}
+table,th {
+padding: 5px 10px;
+}
+tr:nth-child(3){
+    background-color: rgb(139, 0, 139) ;
+}
+tr:nth-child(1nd){
+   background-color:rgb(255, 248, 220) ; 
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+tr:nth-child(2nd){
+    background-color: rgb(255, 255, 255) ; 
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+
+
