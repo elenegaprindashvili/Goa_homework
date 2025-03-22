@@ -1,0 +1,29 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: rgb(0, 85, 255);
+}
+.container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 100vh;
+    padding: 10px;
+    gap: 50px;
+}
+.hidden{
+    background-color: transparent;
+}
+.blue-box{
+    height: 350px;
+    width: 100px;
+    background-color: transparent;
+    border: 10px solid blue;
+}
+ 
+  
+
+ 
